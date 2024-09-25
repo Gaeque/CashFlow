@@ -16,10 +16,7 @@
       },
       "CashFlow.Domain/1.0.0": {
         "runtime": {
-          "CashFlow.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CashFlow.Domain.dll": {}
         }
       }
     }

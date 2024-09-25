@@ -81,34 +81,22 @@
           "FluentValidation": "11.10.0"
         },
         "runtime": {
-          "CashFlow.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CashFlow.Application.dll": {}
         }
       },
       "CashFlow.Communication/1.0.0": {
         "runtime": {
-          "CashFlow.Communication.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CashFlow.Communication.dll": {}
         }
       },
       "CashFlow.Domain/1.0.0": {
         "runtime": {
-          "CashFlow.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CashFlow.Domain.dll": {}
         }
       },
       "CashFlow.Exception/1.0.0": {
         "runtime": {
-          "CashFlow.Exception.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CashFlow.Exception.dll": {}
         }
       },
       "CashFlow.Infrastructure/1.0.0": {
@@ -116,10 +104,7 @@
           "CashFlow.Domain": "1.0.0"
         },
         "runtime": {
-          "CashFlow.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "CashFlow.Infrastructure.dll": {}
         }
       }
     }

@@ -29,3 +29,4 @@ C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Infrastructure\obj\Debu
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+C:\Users\Gaeque\Documents\CSharp\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.sourcelink.json

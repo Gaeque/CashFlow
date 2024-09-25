@@ -37,3 +37,4 @@ C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Application\obj\Debug\n
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\refint\CashFlow.Application.dll
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.pdb
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\ref\CashFlow.Application.dll
+C:\Users\Gaeque\Documents\CSharp\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.sourcelink.json

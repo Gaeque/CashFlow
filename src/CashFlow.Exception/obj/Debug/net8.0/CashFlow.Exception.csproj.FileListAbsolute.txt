@@ -21,3 +21,4 @@ C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Exception\obj\Debug\net
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
 C:\Users\glsantos\Documents\CSharp\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+C:\Users\Gaeque\Documents\CSharp\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.sourcelink.json
