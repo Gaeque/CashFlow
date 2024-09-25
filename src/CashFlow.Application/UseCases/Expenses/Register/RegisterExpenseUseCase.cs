@@ -1,10 +1,11 @@
 ﻿using CashFlow.Communication.Enums;
 using CashFlow.Communication.Requests;
 using CashFlow.Communication.Responses;
+using CashFlow.Exception.ExceptionsBase;
 
 namespace CashFlow.Application.UseCases.Expenses.Register
 {
-    public class RegisterExpenseUseCase 
+    public class RegisterExpenseUseCase
     {
         public ResponseRegisteredExpenseJson Execute(RequestRegisterExpenseJson request)
         {
@@ -12,31 +13,20 @@ namespace CashFlow.Application.UseCases.Expenses.Register
             return new ResponseRegisteredExpenseJson();
         }
 
-        private void Validate(RequestRegisterExpenseJson request) 
-        { 
-            var titleIsEmpty = string.IsNullOrWhiteSpace (request.Title);
-            if (titleIsEmpty)
+        private void Validate(RequestRegisterExpenseJson request)
+        {
+
+            var validator = new RegisterExpenseValidator();
+
+            var result = validator.Validate(request);
+
+            if(result.IsValid == false)
             {
-                throw new ArgumentException("O titulo é obrigatório");
+                var errorsMessages = result.Errors.Select(f => f.ErrorMessage).ToList();
+
+                throw new ErrorOnValidationException(errorsMessages);
             }
 
-            if(request.Amount <= 0)
-            {
-                throw new ArgumentException("O valor deve ser maior que 0");
-            }
-
-            var result = DateTime.Compare(request.Date, DateTime.UtcNow);
-            if(result > 0)
-            {
-                throw new ArgumentException("\r\nAs despesas não podem ser para o futuro");
-            }
-
-
-            var paymentTypeIsValid = Enum.IsDefined(typeof(PaymentType), request.PaymentType);
-            if(paymentTypeIsValid == false)
-            {
-                throw new ArgumentException("Tipo de pagamento inválido");
-            }
         }
     }
 }
