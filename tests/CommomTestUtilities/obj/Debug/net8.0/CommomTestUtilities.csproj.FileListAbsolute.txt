@@ -1,0 +1,16 @@
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\bin\Debug\net8.0\CommomTestUtilities.deps.json
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\bin\Debug\net8.0\CommomTestUtilities.dll
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\bin\Debug\net8.0\CommomTestUtilities.pdb
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTestUtilities.csproj.AssemblyReference.cache
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTestUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTestUtilities.AssemblyInfoInputs.cache
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTestUtilities.AssemblyInfo.cs
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTestUtilities.sourcelink.json
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTe.98287853.Up2Date
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTestUtilities.dll
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\refint\CommomTestUtilities.dll
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\CommomTestUtilities.pdb
+C:\Users\glsantos\Documents\CSharp\CashFlow\tests\CommomTestUtilities\obj\Debug\net8.0\ref\CommomTestUtilities.dll
