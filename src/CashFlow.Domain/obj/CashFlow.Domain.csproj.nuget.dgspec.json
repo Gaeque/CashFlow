@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\glsantos\\Documents\\CSharp\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {}
+    "C:\\DESENVOLVIMENTO\\CSharp\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\glsantos\\Documents\\CSharp\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+    "C:\\DESENVOLVIMENTO\\CSharp\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\glsantos\\Documents\\CSharp\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectUniqueName": "C:\\DESENVOLVIMENTO\\CSharp\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
-        "projectPath": "C:\\Users\\glsantos\\Documents\\CSharp\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectPath": "C:\\DESENVOLVIMENTO\\CSharp\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "packagesPath": "C:\\Users\\glsantos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\glsantos\\Documents\\CSharp\\CashFlow\\src\\CashFlow.Domain\\obj\\",
+        "outputPath": "C:\\DESENVOLVIMENTO\\CSharp\\CashFlow\\src\\CashFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
