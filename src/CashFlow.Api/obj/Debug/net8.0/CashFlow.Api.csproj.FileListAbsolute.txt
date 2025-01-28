@@ -123,7 +123,6 @@ C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Ap
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.AssemblyInfoInputs.cache
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.AssemblyInfo.cs
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.csproj.CoreCompileInputs.cache
-C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.sourcelink.json
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\staticwebassets.build.json
@@ -141,3 +140,11 @@ C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Ap
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.genruntimeconfig.cache
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\ref\CashFlow.Api.dll
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\ClosedXML.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\RBush.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\System.IO.Packaging.dll

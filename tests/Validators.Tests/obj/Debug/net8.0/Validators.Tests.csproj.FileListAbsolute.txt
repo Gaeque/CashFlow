@@ -115,3 +115,14 @@ C:\Users\glsantos\Documents\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net
 C:\Users\glsantos\Documents\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\glsantos\Documents\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\glsantos\Documents\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Validators.Tests
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Validators.Tests
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.csproj.AssemblyReference.cache
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.AssemblyInfoInputs.cache
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.AssemblyInfo.cs
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.csproj.CoreCompileInputs.cache
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.sourcelink.json
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\refint\Validators.Tests.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.pdb

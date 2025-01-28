@@ -34,3 +34,5 @@ C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.GenerateResource.cache
+C:\DESENVOLVIMENTO\CSharp\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.Reports.ResourceReportGenerationMessages.resources
